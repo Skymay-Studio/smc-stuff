@@ -1,8 +1,9 @@
 {
-    "manifestVersion":  1,
     "name":  "SMC Season 7",
-    "mcVersions":  { "mcVersion":  "1.19.2", "forgeVersion": "43.2.14" },
-    "modpackVersion":  "1.0.0",
+    "configsFolderURL": "https://raw.githubusercontent.com/Skymay-Studio/smc-stuff/master/SMC-S7/overrides/configs.zip",
+    "versions":  { "mcVersion":  "1.19.2", "forgeVersion": "43.2.14", "modpackVersion":  "1.0.0", "manifestVersion":  1 },
+    "MD5ForMods": "",
+    "MD5ForConfigs": "",
     "mods":  [
                   {
                       "projectID":  689238,
@@ -266,12 +267,6 @@
                       "projectID":  362528,
                       "fileID":  3941638,
                       "downloadUrl":  "https://edge.forgecdn.net/files/3941/638/Decorative Blocks-forge-1.19.2-3.0.0.jar"
-
-                  },
-                  {
-                      "projectID":  585546,
-                      "fileID":  4743103,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4743/103/BHMenu-Forge-1.19.2-2.4.1.jar"
 
                   },
                   {
