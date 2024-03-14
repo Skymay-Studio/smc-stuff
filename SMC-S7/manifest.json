@@ -2,7 +2,7 @@
     "name":  "SMC Season 7",
     "configsFolderURL": "https://raw.githubusercontent.com/Skymay-Studio/smc-stuff/master/SMC-S7/overrides/configs.zip",
     "versions":  { "mcVersion":  "1.19.2", "forgeVersion": "43.2.14", "modpackVersion":  "1.0.0", "manifestVersion":  1 },
-    "MD5ForMods": "",
+    "MD5ForMods": "cbb86391be63d4039a5e47585d6e7276",
     "MD5ForConfigs": "",
     "mods":  [
                   {
